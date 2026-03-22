@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Hardhat compilation artifacts
+artifacts/
+cache/
+typechain-types/
+
+# Environment variables
+.env
+.env.local
+
+# Reports & documents (submitted separately)
+*.md
+*.pdf
+*.PDF
+context/
+
+# OS
+.DS_Store
+Thumbs.db
