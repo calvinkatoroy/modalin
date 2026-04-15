@@ -15,6 +15,7 @@ typechain-types/
 *.pdf
 *.PDF
 context/
+Midterm Report/
 
 # OS
 .DS_Store
